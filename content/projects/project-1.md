@@ -7,6 +7,8 @@ content_img_path: images/1.jpg
 layout: project
 
 ---
-     My custom jewlery gives everyone what they want, wheather it's earrings, braclets, or necklaces. prices are low, jewlery is great, and my jewlery lasts a long time.
+     My custom jewelry gives everyone what they want, whether it's earrings, bracelets, or necklaces. Prices are low, jewelry is great, and my jewelry lasts a long time.
 
-I make jewlery for kids and adults. The adults may recive volcanic rock, glass and metal. Kids may recive plastic beads.
+      I make jewelry for kids and adults. The adults may receive volcanic rock, glass, and metal. Kids may receive plastic beads. Adults may receive their jewelry  in at least 5 days and kids may receive their jewelry in at least 3 days. 
+
+      
